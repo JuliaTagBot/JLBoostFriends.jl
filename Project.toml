@@ -1,0 +1,13 @@
+name = "JLBoostFriends"
+uuid = "b62b4825-9313-49fb-9f0e-3ea7e7c23d31"
+authors = ["evalparse <zhuojia.dai@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
